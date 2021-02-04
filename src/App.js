@@ -18,8 +18,6 @@ const App = () => (
       </div>
     </Router>
   </StoreProvider>
-
-  //   <h1>dupa dupa</h1>
 );
 
 export default App;
